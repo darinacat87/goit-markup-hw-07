@@ -1,8 +1,10 @@
+
+//fonts
 :root {
     --main-font: 'Roboto', sans-serif;
     --secondary-font: 'Raleway', sans-serif;
 
-    /* text colors */
+    //text colors
     --accent-cl: #2196F3;
     --main-txt-cl: #212121;
     --secondary-txt-cl: #FFFFFF;
@@ -10,13 +12,15 @@
     --icon-first-color: #AFB1B8;
 
 
-    /* background colors */
+    //background colors
     --accent-bg-cl: #2196F3;
     --main-bg-cl: #FFFFFF;
     --secondary-bg-cl: #E5E5E5;
     --gris-bg-cl: #F5F4FA;
     --dark-bg-cl: #2F303A;
     --blue-bg-cl: #188CE8;
+
+    // transition
     --transition-timing: 250ms;
     --transition-function: cubic-bezier(0.4, 0, 0.2, 1);
 
